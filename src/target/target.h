@@ -31,6 +31,7 @@
 #ifndef OPENOCD_TARGET_TARGET_H
 #define OPENOCD_TARGET_TARGET_H
 
+#include <sys/time.h>
 #include <helper/list.h>
 
 struct reg;
